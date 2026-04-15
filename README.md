@@ -1,2 +1,5 @@
 # CYA2
-Github repo for the CYA 2 assignment
+
+## Description 
+For this CYA, I chose to fill out applications for on campus jobs. 
+## Summary
